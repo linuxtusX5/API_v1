@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\salvatus\Desktop\capstone\publish</_PublishTargetUrl>
+    <History>True|2022-02-12T05:12:52.4248008Z;</History>
+  </PropertyGroup>
+</Project>

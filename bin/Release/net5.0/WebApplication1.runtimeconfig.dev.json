@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\salvatus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\salvatus\\.nuget\\packages"
+    ]
+  }
+}
